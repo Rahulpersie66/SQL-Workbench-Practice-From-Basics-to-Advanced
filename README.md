@@ -3,7 +3,8 @@ It is a  SQL practice repository covering basics to advanced topics. It includes
 
 This repository contains a comprehensive collection of SQL queries and practices, ranging from basic operations to advanced techniques. The practice sessions are designed to strengthen and demonstrate proficiency in SQL through real-world scenarios and structured exercises.
 
-##Key Topics Covered:
+## Key Topics Covered:
+
 **Basic SQL Queries**: Simple SELECT statements, filtering data with WHERE clauses, and sorting results.
 **Aggregate Functions**: Use of SUM, COUNT, AVG, MIN, and MAX functions to perform calculations on data sets.
 GROUP BY and HAVING Clauses: Grouping data for aggregated analysis and filtering grouped data.
